@@ -35,7 +35,7 @@ def turn(board)
   end
 end
 
-def play(boad)
+def play(board)
   9.times do
     turn(board)
   end
